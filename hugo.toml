@@ -1,0 +1,10 @@
+baseURL = "https://auzen1.github.io/DevOps_Class_Project/"
+languageCode = "en-us"
+title = "DevOps Blog"
+theme = "beautifulhugo"
+
+[Params]
+  author = "Luthfi Aulia Tarswa"
+
+[Author]
+  name = "Luthfi Aulia Tarswa"
